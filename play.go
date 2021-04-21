@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	test "appsupport/appsupport"
+	test "github.com/mt1976/mwt-go-play/appsupport"
 
 	"github.com/davecgh/go-spew/spew"
 	cron "github.com/robfig/cron/v3"

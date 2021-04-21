@@ -1,4 +1,4 @@
-module mwt-go-play
+module github.com/mt1976/mwt-go-play
 
 go 1.16
 
